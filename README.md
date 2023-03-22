@@ -1,4 +1,7 @@
-# inFast - Sistema de inventario fácil
+# presenteprofe - Sistema de inventario fácil
+
+ <strong>Presenteprofe.cl</strong> es un sistema autogestionado que permite a los docentes registrar la asistencia de los alumnos de manera rápida y controlada.
+
 ## Requisitos
 
 - PHP 8>
